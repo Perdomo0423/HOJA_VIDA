@@ -10,7 +10,7 @@ function App() {
     <Router>
       <>
       <Routes>
-          <Route exact path="/" element={<Principal/>} />
+          <Route exact path="/HOJA_VIDA" element={<Principal/>} />
           <Route exact path="/HojaVida" element={<HojaPrincipal />} />
       </Routes>
       </>

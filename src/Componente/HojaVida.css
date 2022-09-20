@@ -1,0 +1,80 @@
+#Views1{
+    background-color: blueviolet;
+    border-radius: 20px;
+    height: auto;
+    box-shadow: 10px 10px 7px 3px rgba(0, 0, 0, 0.2);
+}
+
+#Views2{
+    color: azure;
+}
+
+#login_img {
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 560px;
+    border-radius: 20px;
+}
+
+#Card1{
+    background-color: rgb(255, 255, 255);
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 30px;
+    border-radius: 20px;
+    height: 400px;
+    width: 400px;
+    margin-left: 150px;
+    box-shadow: 10px 10px 7px 3px rgba(0, 0, 0, 0.2);
+
+}
+#Card2{
+    background-color: rgb(255, 255, 255);
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 30px;
+    border-radius: 20px;
+    height: 400px;
+    width: 400px;
+    box-shadow: 10px 10px 7px 3px rgba(0, 0, 0, 0.2);
+    
+
+}
+#Card3{
+    background-color: rgb(255, 255, 255);
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 30px;
+    border-radius: 20px;
+    height: 400px;
+    width: 400px;
+    box-shadow: 10px 10px 7px 3px rgba(0, 0, 0, 0.2);
+
+}
+
+#cardColor{
+    background-color: brown;
+    border-radius: 20px;
+    height: auto;
+    box-shadow: 10px 10px 7px 3px rgba(0, 0, 0, 0.2);
+}
+
+#WHA{
+    margin-top: 60px;
+
+}
+
+#WHA1{
+    margin-top: 60px;
+    width: 100px;
+}
+
+#fff{
+    background-color: #117daf;
+    margin-top: auto;
+    color: antiquewhite;
+}

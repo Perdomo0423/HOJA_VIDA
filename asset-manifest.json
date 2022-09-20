@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HOJA_VIDA/static/css/main.a41ad912.css",
+    "main.js": "/HOJA_VIDA/static/js/main.71a8167d.js",
+    "index.html": "/HOJA_VIDA/index.html",
+    "main.a41ad912.css.map": "/HOJA_VIDA/static/css/main.a41ad912.css.map",
+    "main.71a8167d.js.map": "/HOJA_VIDA/static/js/main.71a8167d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a41ad912.css",
+    "static/js/main.71a8167d.js"
+  ]
+}

@@ -11,7 +11,7 @@ function App() {
       <>
       <Routes>
           <Route exact path="/HOJA_VIDA/" element={<Principal/>} />
-          <Route exact path="/HojaVida1" element={<HojaPrincipal />} />
+          <Route exact path="/HOJA_VIDA/HojaVida1" element={<HojaPrincipal />} />
       </Routes>
       </>
     </Router>

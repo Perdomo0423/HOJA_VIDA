@@ -11,7 +11,7 @@ const Principal = () => {
                 <h6 className='text-center'>CAMILO PERDOMO</h6>
 
                 <div className="row">
-                <a id = "WHA1" class="btn btn-success text-center" href="/HojaVida" role="button">CLICK</a>
+                <a id = "WHA1" class="btn btn-success text-center" href="/HojaVida1" role="button">CLICK</a>
                 </div>
             </div>
         </div>

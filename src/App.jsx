@@ -10,8 +10,8 @@ function App() {
     <Router>
       <>
       <Routes>
-          <Route exact path="/HOJA_VIDA" element={<Principal/>} />
-          <Route exact path="/HojaVida" element={<HojaPrincipal />} />
+          <Route exact path="/HOJA_VIDA/" element={<Principal/>} />
+          <Route exact path="/HojaVida1" element={<HojaPrincipal />} />
       </Routes>
       </>
     </Router>

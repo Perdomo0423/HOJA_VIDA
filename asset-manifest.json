@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/HOJA_VIDA/static/css/main.a41ad912.css",
-    "main.js": "/HOJA_VIDA/static/js/main.a1dba4ca.js",
+    "main.css": "/HOJA_VIDA/static/css/main.9da165a7.css",
+    "main.js": "/HOJA_VIDA/static/js/main.47682f1e.js",
     "index.html": "/HOJA_VIDA/index.html",
-    "main.a41ad912.css.map": "/HOJA_VIDA/static/css/main.a41ad912.css.map",
-    "main.a1dba4ca.js.map": "/HOJA_VIDA/static/js/main.a1dba4ca.js.map"
+    "main.9da165a7.css.map": "/HOJA_VIDA/static/css/main.9da165a7.css.map",
+    "main.47682f1e.js.map": "/HOJA_VIDA/static/js/main.47682f1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.a41ad912.css",
-    "static/js/main.a1dba4ca.js"
+    "static/css/main.9da165a7.css",
+    "static/js/main.47682f1e.js"
   ]
 }

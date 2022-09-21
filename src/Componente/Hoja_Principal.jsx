@@ -21,7 +21,7 @@ const Hoja_Principal = () => {
                 <br /><br />
                 <div className="row" id='Views1'>
                     <h1 className='text-center' id='Views2'>LA MEJOR HOJA DE VIDA</h1>
-                    <img id='login_img' src="/Camilo.PNG" alt="" />
+                    <img id='login_img' src="https://ibb.co/CPVBz1F" alt="" />
                 </div>
 
                 <div id="cardColor" className="row">
